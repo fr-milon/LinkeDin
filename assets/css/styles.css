@@ -1,0 +1,106 @@
+
+
+
+body {
+	padding-right :8px;
+	padding-left :8px;
+	margin:0 auto;
+	text-decoration :none ;
+	font-family:ubuntu;
+	font-weight :600px;
+	
+	}
+	aside {
+		float: right;
+		margin-top: 10%;
+		overflow:hidden;
+	}
+	aside ul {
+		list-style:none;
+		float: left;
+	}
+	aside ul li {
+		float: right;
+		display: inline-flex;
+	}
+	aside ul li a {
+		padding: 10px;
+		background-color: rgba(143, 138, 138, 0.493);
+		border-radius: 10px ;
+		text-decoration: none;
+		color: black;
+		margin-right: 10px;
+		margin-top: 10px;
+		right: auto;
+
+	}
+#bd_scl {
+margin-left: 8%;
+margin-right: 0%;
+
+}
+
+.third {
+
+	height:30px ;
+	background-color:red;
+}
+.third p {
+	font-size:25px;
+	color:red;
+	margin-left: 20%;
+	font-size: 40px;
+}
+font-weight:600px
+
+	h1 {
+		color: rgba(24, 56, 240, 0.815);
+		font-size: 60px;
+	}
+	
+		
+		
+		input  {
+		padding: 10px;
+		width:30%;
+		left:0;
+		color:rgba(7, 1, 1, 0.966);
+		height: 20px;
+		margin-bottom: 10px;
+		border-color:rgba(17, 17, 17, 0.507) ;
+		
+		}
+
+img.right{
+	float: right;
+}
+img.left{
+	float: left;
+}
+select {
+	padding: 10px;
+		width:30%;
+		color:black;
+		height: 20px;
+		border-color:rgba(17, 17, 17, 0.507) ;
+		color: black;	
+		
+}
+.p_n {
+	padding:10px;
+	font-size:25px;
+
+
+}
+.p_n a {
+	text-decoration: none;
+	padding: 10px;
+	margin-left: 10px;
+	font-weight: 800; 
+}
+
+
+
+
+	
+	
